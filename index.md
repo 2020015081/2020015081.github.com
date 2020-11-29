@@ -8,7 +8,7 @@
       <p><b>地址:宁波市鄞州区盛莫路1519号浙江万里学院</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">  %QQ 2020_11_29 19_23_13.png
+      <img src="/QQ 2020_11_29 19_23_13.png" width="100%">  %QQ 2020_11_29 19_23_13.png
     </td>
   </tr>
 </table>
