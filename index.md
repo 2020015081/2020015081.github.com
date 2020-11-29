@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <table border="0">
   <tr>
     <td width="75%">
@@ -17,7 +11,8 @@
       <img src="/zhengjianzhao.jpg" width="100%">  %QQ 2020_11_29 19_23_13.png
     </td>
   </tr>
-</table>### 个人信息
+</table>
+### 个人信息
 #### 姓名：胡毕聪
 #### 学历：本科
 #### 学校：浙江万里学院
